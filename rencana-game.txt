@@ -2,6 +2,7 @@ Rencana game saya
 -membuat game online
 *berbasis 3d
 *berbasis 2d
+*berbasis ar
+*berbasis vr
 -membuat game edukasi
-
--marketing game
+-menjual game aja saat mau download

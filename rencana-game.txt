@@ -1,3 +1,6 @@
 Rencana game saya
 -membuat game online
+*berbasis 3d
+*berbasis 2d
+
 -marketing game

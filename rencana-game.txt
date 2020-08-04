@@ -3,5 +3,6 @@ Rencana game saya
 *berbasis 3d
 *berbasis 2d
 -membuat game edukasi
+*Pembelajaran
 
 -marketing game
